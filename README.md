@@ -1,11 +1,11 @@
 # IlluminateAgnostic \ Collection
 
 <p align="center">
-    <a href="https://packagist.org/packages/pragmarx/ia-collection"><img alt="Latest Stable Version" src="https://img.shields.io/packagist/v/pragmarx/ia-collection.svg?style=flat-square"></a>
+    <a href="https://packagist.org/packages/mohamedahmed00/ia-collection"><img alt="Latest Stable Version" src="https://img.shields.io/packagist/v/mohamedahmed00/ia-collection.svg?style=flat-square"></a>
     <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square"></a>
     <a href="https://scrutinizer-ci.com/g/antonioribeiro/ia-collection/?branch=master"><img alt="Code Quality" src="https://img.shields.io/scrutinizer/g/antonioribeiro/ia-collection.svg?style=flat-square"></a>
     <a href="https://travis-ci.org/antonioribeiro/ia-collection"><img alt="Build" src="https://img.shields.io/travis/antonioribeiro/ia-collection.svg?style=flat-square"></a>
-    <a href="https://packagist.org/packages/pragmarx/ia-collection"><img alt="Downloads" src="https://img.shields.io/packagist/dt/pragmarx/ia-collection.svg?style=flat-square"></a>
+    <a href="https://packagist.org/packages/mohamedahmed00/ia-collection"><img alt="Downloads" src="https://img.shields.io/packagist/dt/mohamedahmed00/ia-collection.svg?style=flat-square"></a>
 </p>
 <p align="center">
     <a href="https://scrutinizer-ci.com/g/antonioribeiro/ia-collection/?branch=master"><img alt="Coverage" src="https://img.shields.io/scrutinizer/coverage/g/antonioribeiro/ia-collection.svg?style=flat-square"></a>
@@ -25,7 +25,7 @@ For docs, please check the Laravel documentation: https://laravel.com/docs/5.5/c
 Via Composer
 
 ``` bash
-$ composer require pragmarx/ia-collection
+$ composer require mohamedahmed00/ia-collection
 ```
 
 ## Usage
